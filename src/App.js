@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.css';
-import Navbar from './components/Navbar';
+import Home from './components/Home';
+
+import 'bootstrap/dist/css/bootstrap.min.css'; //for GUI
 
 function App() {
   return (
     <div className="App">
-    <Navbar />
+    <Home /> //Main component
     </div>
   );
 }
