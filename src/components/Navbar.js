@@ -12,7 +12,7 @@ function ColorSchemesExample() {
             <Nav.Link href="#home">Show Recipes</Nav.Link>
             <Nav.Link href="#features">Add Recipe</Nav.Link>
             <Nav.Link href="#pricing">Pricing</Nav.Link>
-          </Nav>
+            </Nav>
         </Container>
       </Navbar>
     </>
