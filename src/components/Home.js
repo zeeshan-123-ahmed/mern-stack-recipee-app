@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from './src/components/Navbar'
-import ShowRecipees from './src/components/ShowRecipees'
+import Navbar from './Navbar'
+import ShowRecipees from './ShowRecipees'
 
 export const Home = () => {
   return (
